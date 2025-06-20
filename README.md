@@ -1,6 +1,11 @@
-# honeyli.cy
+# Tailwindcss html template
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6f4b3197-5ae6-471b-8329-0594105e5dc3/deploy-status)](https://app.netlify.com/projects/honeyli/deploys)
+This is a minimal skeleton for static websites to get started, designed to run on Vite.
+
+Tools:
+- TailindCSS
+- Vite
+- eslint for linting and best practises
 
 ## Project setup
 
