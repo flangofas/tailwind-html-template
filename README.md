@@ -1,4 +1,4 @@
-# Tailwindcss html template
+# Tailwindcss HTML template
 
 This is a minimal skeleton for static websites to get started, designed to run on Vite.
 
